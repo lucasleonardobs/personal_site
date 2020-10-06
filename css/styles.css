@@ -177,7 +177,7 @@ footer {
     visibility: visible;
 }
 
-/*=== IFRAME ====*/
+/*=== IFRAME ===*/
 
 iframe {
     width: 100%;
@@ -186,6 +186,7 @@ iframe {
     top: 5%;
 }
 
+/*=== RESPONSIVIDADE ===*/
 @media screen and (max-width:768px) {
     .cards {
         display: flex;
